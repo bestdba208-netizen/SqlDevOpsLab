@@ -15,3 +15,6 @@ This project shows how to:
 
 ```text
 Developer → Git → CI Pipeline → DACPAC → Target Database
+
+
+<img width="1518" height="799" alt="image" src="https://github.com/user-attachments/assets/fadfe3a6-898a-47f6-8411-36cd3325f636" />

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="StackOverflow.SqlDb.sqlproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

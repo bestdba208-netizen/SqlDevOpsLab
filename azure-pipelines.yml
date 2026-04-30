@@ -1,0 +1,12 @@
+trigger:
+- main
+
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+- task: VSBuild@1
+  inputs:
+    solution: '**/*.sqlproj'
+    platform: 'Any CPU'
+    configuration: 'Release'

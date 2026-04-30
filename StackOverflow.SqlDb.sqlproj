@@ -62,6 +62,8 @@
     <Folder Include="dbo\Tables\" />
     <Folder Include="dbo\Stored Procedures\" />
     <Folder Include="Security\" />
+    <Folder Include="Views" />
+    <Folder Include="Scripts" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\LinkTypes.sql" />
@@ -76,5 +78,9 @@
     <Build Include="dbo\Stored Procedures\DropIndexes.sql" />
     <Build Include="dbo\Stored Procedures\GetPostsByUser.sql" />
     <Build Include="Security\Permissions.sql" />
+    <Build Include="Scripts\DemoQueries.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="azure-pipelines.yml" />
   </ItemGroup>
 </Project>

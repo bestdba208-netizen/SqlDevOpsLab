@@ -80,7 +80,4 @@
     <Build Include="Security\Permissions.sql" />
     <Build Include="Scripts\DemoQueries.sql" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="azure-pipelines.yml" />
-  </ItemGroup>
 </Project>
